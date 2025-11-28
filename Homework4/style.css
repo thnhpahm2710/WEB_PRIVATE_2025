@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(247, 242, 233);
+    width: 1000px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card{
+    border: 1px solid rgb(179, 178, 178);
+    margin: auto;
+    margin-left: 600px;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 500px;
+    background-color: white;
+}
+
+img{
+    border-radius: 5px;
+}
+
+.brief h3{
+    color: rgb(119, 119, 249);
+    padding-top: 10px;
+}
+
+.brief p{
+    padding: 10px 0px 10px 0px;
+    font-size: 15px;
+}
+
+.brief h4{
+    color: rgb(1, 173, 1);
+    font-size: 15px;
+}
+
+.brief .rate {
+    padding: 1px 0px 5px 0px;
+    display: flex;
+}
+
+.rate .icon{
+    fill: rgb(252, 185, 60);
+    display: flex;
+    width: 110px;
+    padding-right: 8px;
+}
+
+.addToCourt button{
+    background-color: orange;
+    border-radius: 3px;
+    padding: 7px;
+    border: 0.5px solid white;
+    color: white;
+    margin-bottom: 3px;
+}
+
+.detail p{
+    font-size: 18px;
+    font-weight: bolder;
+    padding: 10px 0px 10px 0px;
+}
+
+.specific ul li{
+    margin-left: 20px;
+}
